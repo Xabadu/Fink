@@ -1,0 +1,24 @@
+{
+  "name": "Fink",
+  "version": "0.0.1",
+  "description": "Data Loader for GST. Used to import content from Excel files into Parse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Xabadu/Fink.git"
+  },
+  "keywords": [
+    "parse",
+    "excel",
+    "gst"
+  ],
+  "author": "Xabadu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xabadu/Fink/issues"
+  },
+  "homepage": "https://github.com/Xabadu/Fink"
+}
