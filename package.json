@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Xabadu/Fink/issues"
   },
-  "homepage": "https://github.com/Xabadu/Fink"
+  "homepage": "https://github.com/Xabadu/Fink",
+  "dependencies": {
+    "parse": "^1.4.2"
+  }
 }
