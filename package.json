@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Xabadu/Fink",
   "dependencies": {
-    "parse": "^1.4.2"
+    "parse": "^1.4.2",
+    "xlsx": "^0.8.0"
   }
 }
